@@ -148,6 +148,15 @@ Using predictive models across multiple stages could support student retention a
 - SHAP
 - Jupyter Notebook
 
+## Project Structure
+
+```text
+student-dropout-risk-prediction/
+│
+├── README.md
+├── student_dropout_risk_prediction.ipynb
+└── student_dropout_risk_prediction_report.pdf
+
 ## Author
 
 **Jovan Surya**
